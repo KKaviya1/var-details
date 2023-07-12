@@ -1,0 +1,8 @@
+F:\Day - 2\var\var\bin\Debug\var.exe.config
+F:\Day - 2\var\var\bin\Debug\var.exe
+F:\Day - 2\var\var\bin\Debug\var.pdb
+F:\Day - 2\var\var\obj\Debug\var.csproj.AssemblyReference.cache
+F:\Day - 2\var\var\obj\Debug\var.csproj.SuggestedBindingRedirects.cache
+F:\Day - 2\var\var\obj\Debug\var.csproj.CoreCompileInputs.cache
+F:\Day - 2\var\var\obj\Debug\var.exe
+F:\Day - 2\var\var\obj\Debug\var.pdb
